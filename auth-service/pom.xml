@@ -119,7 +119,7 @@
             <plugin>
                 <groupId>au.com.dius</groupId>
                 <artifactId>pact-jvm-provider-maven_2.12</artifactId>
-                <version>3.5.25</version>
+                <version>3.6.15</version>
                 <configuration>
                     <pactBrokerUrl>https://localhost:8443</pactBrokerUrl>
                     <pactBrokerUsername>user</pactBrokerUsername>
